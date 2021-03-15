@@ -1,0 +1,13 @@
+li{
+  padding-right: 15px;
+  padding-left: 15px;
+}
+#boton{
+  border-radius: 50px;
+
+
+  color: white;
+  background-color: darkorange;
+  border-color: darkorange;
+  font-weight: bolder
+}
