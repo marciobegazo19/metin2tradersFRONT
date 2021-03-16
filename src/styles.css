@@ -1,5 +1,9 @@
-body{
+/*body{
   background-image: url("https://wallpaperaccess.com/full/1567539.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-}
+  background-attachment: fixed;
+}*/
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

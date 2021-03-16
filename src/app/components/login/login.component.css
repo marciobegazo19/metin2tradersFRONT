@@ -1,0 +1,30 @@
+.div-login{
+    margin-left: 55%;
+    height: 90%;
+    padding: 3%;
+
+}
+.card-login{
+    background: white;
+    text-align: center;
+    height: 100%;
+    padding-top: 10%;
+    border-radius: 30px;
+
+}
+.imagen-login{
+    height: 40%;
+    width: 40%;
+    margin: -16px 0px 0px;
+}
+.input-login{
+    min-width: 150px;
+    max-width: 250px;
+    width: 100%;
+}
+.button-login{
+    min-width: 150px;
+    max-width: 250px;
+    width: 100%;
+}
+
